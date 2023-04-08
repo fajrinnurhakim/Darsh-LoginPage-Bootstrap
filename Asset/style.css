@@ -1,0 +1,38 @@
+.vh-100 {
+    background-image: url(../Asset/Image/2.png);
+    background-size: cover;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(2px);
+    border-radius: 20px;
+}
+
+.logo {
+    color: orangered;
+}
+
+.sign {
+    background-color: orangered;
+    border: none;
+}
+
+.sign:hover {
+    background-color: orange;
+    border: none;
+}
+
+.btngo:hover{
+    background-color: orangered;
+    border: none;
+}
+
+.btnfb:hover{
+    background-color: orangered;
+    border: none;
+}
+.btngi:hover{
+    background-color: orangered;
+    border: none;
+}
